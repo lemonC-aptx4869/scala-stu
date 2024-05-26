@@ -17,6 +17,8 @@ object StrStu {
       |table_t
       |""".stripMargin
     println(tempStr)
+    // 4、使用乘法
+    println("a" * 3)
     //占位符${}
     // 1、s""字符串
     println(s"str = ${str}")
